@@ -1,6 +1,7 @@
-##TUTORIAL CREATE READ UPDATE DELETE (CRUD) ANDROID
+TUTORIAL CREATE READ UPDATE DELETE (CRUD) ANDROID
+=======================================================================================
 
-Project ini merupakan project pelatihan android pada perusahaan Nostratech IT Solution.
+Project ini merupakan project pelatihan android pada perusahaan PT Nostra Solusi Teknologi.
 
 - Pada project ini, dibuat aplikasi kontak yang bisa melakukan 4 hal:
 
